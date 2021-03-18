@@ -5,6 +5,7 @@
 	$result = fgets($fn);
 	echo 'https://play.google.com/redeem?code='.$result;
 	echo '<br/><br/>';
+  
   }
 
   fclose($fn);
