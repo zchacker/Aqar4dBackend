@@ -29,3 +29,8 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
+
+bootstrap-4.3.1-dist.zip
+CodeIgniter-3.1.10.zip
+country-code-list-intl-tel-input-16.0.0.zip
+web_app.zip

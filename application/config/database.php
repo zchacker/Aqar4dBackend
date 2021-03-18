@@ -1,10 +1,10 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$db_host = "localhost";
-$db_name = "aqar_app"; // db_a4bab1_aqar
-$db_user = "root";
-$db_pass = "";// aaa654321
+$db_host = "mysql5040.site4now.net";
+$db_name = "db_a6bad3_aqar4d"; // a6bad3_aqar4d // aqar_app
+$db_user = "a6bad3_aqar4d";
+$db_pass = "aaa654321";// aaa654321
 
 
 /*
